@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Do Nothing Recipes",
+	"Description": "Infinitely run vanilla production buildings for decoration purposes via recipes that produce nothing",
+	"Category": "Modding",
+	"CreatedBy": "Robb",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"BuiltInInitialFeatureState": "Active",
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=491125"
+}
