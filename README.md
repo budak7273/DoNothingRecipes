@@ -9,3 +9,5 @@ Unlock the recipe for free in HUB Tier 1.
 - The machine still consumes its normal power amount, although you can underclock it to reduce this
 - The recipe only consumes 0-1 MW when running in variable power consumers
 - Somersloops and Power Shards can be installed to change the visuals (gas plumes, animation slowdown/speedup)
+
+Thanks SirDigby for the mod icon!
